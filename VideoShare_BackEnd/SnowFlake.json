@@ -1,0 +1,4 @@
+{
+  //雪花算法workerid 非必要忽修改
+  "SnowFlakeWorkerID": 0
+}

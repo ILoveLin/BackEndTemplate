@@ -1,0 +1,16 @@
+{
+  "参数不可用！": "Parameter is not available!",
+  "无效输入！": "Invalid input!",
+  "内部异常！": "Internal exception!",
+  "请求成功！": "Request granted!",
+  "请求失败！": "The request failed!",
+  "暂无数据！": "No data yet!",
+  "操作失败！": "The operation failed!",
+  "未知原因导致的无数据！": "No data due to unknown causes!",
+  "时间错误！": "Wrong time!",
+  "权限不足！": "Insufficient permissions!",
+  "唯一值错误！": "Unique value error!",
+  "登录失效！": "Login failure!",
+  "用户不可用！": "The user is unavailable!"
+
+}
